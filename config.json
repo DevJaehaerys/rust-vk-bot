@@ -1,0 +1,9 @@
+{
+  "serverConfig": {
+    "ip": "",
+    "port": "",
+    "password": ""
+  },
+  "adminIds": [],
+  "tokenVK": "vk1"
+}
